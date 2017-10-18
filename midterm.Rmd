@@ -1,0 +1,23 @@
+---
+title: ""
+output: html_document
+---
+##### 9:00 Section
+
+*Sara Conklin*
+
+*October 15, 2017*
+
+Here is some arithmetic: 
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+```{r}
+x<-3
+y<-4
+x-sqrt(y)
+
+```
+
